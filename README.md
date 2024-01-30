@@ -1,0 +1,2 @@
+# pyaudioerror
+pyaudio hatasi
